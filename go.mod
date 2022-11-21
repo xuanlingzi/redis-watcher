@@ -1,4 +1,4 @@
-module github.com/casbin/redis-watcher/v2
+module github.com/go-admin-team/redis-watcher/v2
 
 go 1.18
 
